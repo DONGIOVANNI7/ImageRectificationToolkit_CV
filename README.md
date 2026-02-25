@@ -1,6 +1,7 @@
 # Computer Vision Pipeline: Image Rectification Toolkit
 
 A comprehensive Computer Vision pipeline implemented in Python. This project focuses on building core image processing algorithms **from scratch** (using NumPy) to demonstrate a bottom-up understanding of pixel manipulation, feature extraction, and geometric transformations.
+For a more detailed analysis check pdf report!
 
 ## 🚀 Features
 
