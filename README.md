@@ -1,7 +1,6 @@
 # Computer Vision Pipeline: Image Rectification Toolkit
 
-A comprehensive Computer Vision pipeline implemented in Python. This project focuses on building core image processing algorithms **from scratch** (using NumPy) to demonstrate a bottom-up understanding of pixel manipulation, feature extraction, and geometric transformations.
-For a more detailed analysis check pdf report!
+A comprehensive Computer Vision pipeline implemented in Python. This project focuses on building core image processing algorithms **from scratch** (using NumPy) to demonstrate a bottom-up understanding of pixel manipulation, feature extraction, and geometric transformations. For a more detailed analysis check the PDF report!
 
 ## 🚀 Features
 
@@ -18,7 +17,7 @@ For a more detailed analysis check pdf report!
 
 ## 🛠️ Usage
 
-1. **Clone the repository:**
-   ```bash
-  git clone https://github.com/DONGIOVANNI7/ImageRectificationToolkit_CV.git
-  cd ImageRectificationToolkit_CV
+**Clone the repository:**
+```bash
+git clone [https://github.com/DONGIOVANNI7/ImageRectificationToolkit_CV.git](https://github.com/DONGIOVANNI7/ImageRectificationToolkit_CV.git)
+cd ImageRectificationToolkit_CV
