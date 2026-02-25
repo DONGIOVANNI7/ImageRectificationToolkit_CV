@@ -19,5 +19,5 @@ A comprehensive Computer Vision pipeline implemented in Python. This project foc
 
 **Clone the repository:**
 ```bash
-git clone [https://github.com/DONGIOVANNI7/ImageRectificationToolkit_CV.git](https://github.com/DONGIOVANNI7/ImageRectificationToolkit_CV.git)
+git clone https://github.com/DONGIOVANNI7/ImageRectificationToolkit_CV.git
 cd ImageRectificationToolkit_CV
